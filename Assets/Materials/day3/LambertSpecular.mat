@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Lambert
-  m_Shader: {fileID: 4800000, guid: baa69d9907d2d0448976e89b7a53c0f0, type: 3}
+  m_Name: LambertSpecular
+  m_Shader: {fileID: 4800000, guid: 5a5cb3d2232c9dd4794e5af8b25612cf, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
